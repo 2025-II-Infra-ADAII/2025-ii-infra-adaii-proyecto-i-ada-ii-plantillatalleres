@@ -1,12 +1,21 @@
-# Ejemplo de titulo de Taller
 
-## Integrantes
+# Asignación: [Nombre de la asignación]
 
-Nombre completo | Código
-Estudiante1 | 123456
-Estudiante2 | 123457
-Estudiante3 | 123458
+**Fecha:** [DD/MM/AAAA]
+**Curso:** [Nombre del Curso]
 
-## Descripción del taller
+---
 
-Descripción del taller
+## 👥 Integrantes del Grupo
+
+| Nombre Completo       | Código  | Rol            | Correo Electrónico       |
+|-----------------------|---------|----------------|--------------------------|
+| [Estudiante 1]        | 123456  | [Líder/Colab.] | [correo1@institucion.edu]|
+| [Estudiante 2]        | 123457  | [Colaborador]  | [correo2@institucion.edu]|
+| [Estudiante 3]        | 123458  | [Colaborador]  | [correo3@institucion.edu]|
+
+---
+
+## 📌 Descripción del Taller
+[Breve párrafo explicando el propósito y objetivos del taller (4-6 líneas). Ejemplo:]
+*"Este taller busca analizar [tema principal] mediante [metodología]. Los objetivos incluyen [objetivo 1], [objetivo 2] y [objetivo 3], aplicando conceptos vistos en clase como [concepto relevante]."*
